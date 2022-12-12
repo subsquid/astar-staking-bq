@@ -1,11 +1,12 @@
 {
   "outDir": "src/types",
-  "specVersions": "https://kusama.archive.subsquid.io/graphql",
+  "specVersions": "https://astar.archive.subsquid.io/graphql",
   "events": [
-    "Balances.Transfer"
-  ],
-  "calls": [ 
-  ],
-  "storage": [
+    "DappsStaking.Reward",
+    "DappsStaking.BondAndStake",
+    "DappsStaking.UnbondAndUnstake",
+    "DappsStaking.UnbondUnstakeAndWithdraw",
+    "DappsStaking.NominationTransfer",
+    "DappsStaking.WithdrawFromUnregistered"
   ]
 }

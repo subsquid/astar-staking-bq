@@ -1,2 +1,3 @@
-export * from "./account.model"
-export * from "./transfer.model"
+export * from "./reward.model"
+export * from "./bond.model"
+export * from "./_bondType"

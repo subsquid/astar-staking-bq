@@ -1,9 +1,18 @@
 /node_modules
 /lib
 /builds
+/**/!*
+*.dev*
 
 /**Versions.json
 /**Versions.jsonl
 
 # IDE files
 /.idea
+/.vscode
+/.vs
+
+/assets/*.csv
+/**/*key.json
+
+*.env*
