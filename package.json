@@ -39,7 +39,7 @@
     "eslint-plugin-import": "2.25.2",
     "eslint-plugin-prettier": "^4.0.0",
     "prettier": "2.3.0",
-    "prettier-eslint": "^13.0.0",
+    "prettier-eslint": "^15.0.0",
     "@types/big.js": "^6.1.6"
   }
 }
